@@ -56,17 +56,16 @@ I'm a **Computer Science student** and **Full-Stack Developer** passionate about
 
 > Here are some of the projects I've built — from full-stack web applications and school management systems to distributed systems, backend services, and mobile applications.
 
-| # | Project | Description | Stack |
+| <sub>#</sub> | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 01 | <sub>🔗 [SwiftLogistics](https://github.com/adithaanusara/SwiftLogistics)</sub> | <sub>Microservices-based logistics and delivery management system focused on service separation, asynchronous communication, and scalable backend architecture using message queues.</sub> | <sub>`Python` `FastAPI` `React` `RabbitMQ` `PostgreSQL` `Docker`</sub> |
-| 02 | <sub>🔗 [FoodExpress Backend](https://github.com/adithaanusara/foodexpress-backend)</sub> | <sub>Backend service for an online food ordering system, providing server-side APIs for application data, restaurant operations, and ordering workflows.</sub> | <sub>`Backend` `REST API`</sub> |
-| 03 | <sub>🔗 [IskolE](https://github.com/Kalana2/Iskole)</sub> | <sub>Role-based School Management System designed to manage student records, marks, attendance, timetables, announcements, reports, and academic workflows.</sub> | <sub>`PHP` `MySQL` `Docker`</sub> |
-| 04 | <sub>🔗 [LoveLink Studio](https://lovelink-studio.vercel.app)</sub> | <sub>Modern full-stack web platform built with Next.js, featuring responsive UI, authentication, database integration, cloud image management, and email functionality.</sub> | <sub>`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`</sub> |
-| 05 | <sub>🔗 [P&D Stone](YOUR-P&D-STONE-LINK)</sub> | <sub>Responsive business website with a product gallery, quote-request flow, WhatsApp integration, and mobile-friendly interface.</sub> | <sub>`Vite` `JavaScript` `CSS` `Supabase`</sub> |
-| 06 | <sub>🔗 [Online Food Ordering System](YOUR-FOOD-ORDERING-LINK)</sub> | <sub>Modern food ordering application focused on reusable components, responsive design, intuitive user experience, and interactive ordering flows.</sub> | <sub>`React` `TypeScript`</sub> |
-| 07 | <sub>🔗 [Greatvilla](https://github.com/maleesha4/Greatvilla)</sub> | <sub>Modern villa website with a responsive interface, property presentation, image gallery, location details, and contact functionality.</sub> | <sub>`TypeScript` `React` `CSS`</sub> |
-| 08 | <sub>🔗 [React Native Weather App](YOUR-WEATHER-APP-LINK)</sub> | <sub>Cross-platform mobile weather application with search functionality, real-time weather data, forecasts, and external API integration.</sub> | <sub>`React Native` `Expo` `JavaScript`</sub> |
-
+| <sub>01</sub> | <sub>🔗 [SwiftLogistics](https://github.com/adithaanusara/SwiftLogistics)</sub> | <sub>Microservices-based logistics and delivery management system focused on service separation, asynchronous communication, and scalable backend architecture using message queues.</sub> | <sub>`Python` `FastAPI` `React` `RabbitMQ` `PostgreSQL` `Docker`</sub> |
+| <sub>02</sub> | <sub>🔗 [FoodExpress Backend](https://github.com/adithaanusara/foodexpress-backend)</sub> | <sub>Backend service for an online food ordering system, providing server-side APIs for application data, restaurant operations, and ordering workflows.</sub> | <sub>`Backend` `REST API`</sub> |
+| <sub>03</sub> | <sub>🔗 [IskolE](https://github.com/Kalana2/Iskole)</sub> | <sub>Role-based School Management System designed to manage student records, marks, attendance, timetables, announcements, reports, and academic workflows.</sub> | <sub>`PHP` `MySQL` `Docker`</sub> |
+| <sub>04</sub> | <sub>🔗 [LoveLink Studio](https://lovelink-studio.vercel.app)</sub> | <sub>Modern full-stack web platform built with Next.js, featuring responsive UI, authentication, database integration, cloud image management, and email functionality.</sub> | <sub>`Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`</sub> |
+| <sub>05</sub> | <sub>🔗 [P&D Stone](YOUR-P&D-STONE-LINK)</sub> | <sub>Responsive business website with a product gallery, quote-request flow, WhatsApp integration, and mobile-friendly interface.</sub> | <sub>`Vite` `JavaScript` `CSS` `Supabase`</sub> |
+| <sub>06</sub> | <sub>🔗 [Online Food Ordering System](YOUR-FOOD-ORDERING-LINK)</sub> | <sub>Modern food ordering application focused on reusable components, responsive design, intuitive user experience, and interactive ordering flows.</sub> | <sub>`React` `TypeScript`</sub> |
+| <sub>07</sub> | <sub>🔗 [Greatvilla](https://github.com/maleesha4/Greatvilla)</sub> | <sub>Modern villa website with a responsive interface, property presentation, image gallery, location details, and contact functionality.</sub> | <sub>`TypeScript` `React` `CSS`</sub> |
+| <sub>08</sub> | <sub>🔗 [React Native Weather App](YOUR-WEATHER-APP-LINK)</sub> | <sub>Cross-platform mobile weather application with search functionality, real-time weather data, forecasts, and external API integration.</sub> | <sub>`React Native` `Expo` `JavaScript`</sub> |
 ## 📊 GitHub Statistics
 
 <p align="center">
