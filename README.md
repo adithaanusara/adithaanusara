@@ -58,14 +58,14 @@ I'm a **Computer Science student** and **Full-Stack Developer** passionate about
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 01 | 🔗 [SwiftLogistics](https://github.com/adithaanusara/SwiftLogistics) | Microservices-based logistics and delivery management system focused on service separation, asynchronous communication, and scalable backend architecture using message queues. | `Python` `FastAPI` `React` `RabbitMQ` `PostgreSQL` `Docker` |
-| 02 | 🔗 [FoodExpress Backend](https://github.com/adithaanusara/foodexpress-backend) | Backend service for an online food ordering system, providing server-side APIs for application data, restaurant operations, and ordering workflows. | `Backend` `REST API` |
-| 03 | 🔗 [IskolE](https://github.com/Kalana2/Iskole) | Role-based School Management System designed to manage student records, marks, attendance, timetables, announcements, reports, and academic workflows. | `PHP` `MySQL` `Docker` |
-| 04 | 🔗 [LoveLink Studio](https://lovelink-studio.vercel.app) | Modern full-stack web platform built with Next.js, featuring responsive UI, authentication, database integration, cloud image management, and email functionality. | `Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` |
-| 05 | 🔗 [P&D Stone](YOUR-P&D-STONE-LINK) | Responsive business website with a product gallery, quote-request flow, WhatsApp integration, and mobile-friendly interface. | `Vite` `JavaScript` `CSS` `Supabase` |
-| 06 | 🔗 [Online Food Ordering System](YOUR-FOOD-ORDERING-LINK) | Modern food ordering application focused on reusable components, responsive design, intuitive user experience, and interactive ordering flows. | `React` `TypeScript` |
-| 07 | 🔗 [Greatvilla](https://github.com/maleesha4/Greatvilla) | Modern villa website with a responsive interface, property presentation, image gallery, location details, and contact functionality. | `TypeScript` `React` `CSS` |
-| 08 | 🔗 [React Native Weather App](YOUR-WEATHER-APP-LINK) | Cross-platform mobile weather application with search functionality, real-time weather data, forecasts, and external API integration. | `React Native` `Expo` `JavaScript` |
+| 01 | 🔗 [SwiftLogistics](https://github.com/adithaanusara/SwiftLogistics) | <sub>Microservices-based logistics and delivery management system focused on service separation, asynchronous communication, and scalable backend architecture using message queues.</sub> | `Python` `FastAPI` `React` `RabbitMQ` `PostgreSQL` `Docker` |
+| 02 | 🔗 [FoodExpress Backend](https://github.com/adithaanusara/foodexpress-backend) | <sub>Backend service for an online food ordering system, providing server-side APIs for application data, restaurant operations, and ordering workflows.</sub> | `Backend` `REST API` |
+| 03 | 🔗 [IskolE](https://github.com/Kalana2/Iskole) | <sub>Role-based School Management System designed to manage student records, marks, attendance, timetables, announcements, reports, and academic workflows.</sub> | `PHP` `MySQL` `Docker` |
+| 04 | 🔗 [LoveLink Studio](https://lovelink-studio.vercel.app) | <sub>Modern full-stack web platform built with Next.js, featuring responsive UI, authentication, database integration, cloud image management, and email functionality.</sub> | `Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` |
+| 05 | 🔗 [P&D Stone](YOUR-P&D-STONE-LINK) | <sub>Responsive business website with a product gallery, quote-request flow, WhatsApp integration, and mobile-friendly interface.</sub> | `Vite` `JavaScript` `CSS` `Supabase` |
+| 06 | 🔗 [Online Food Ordering System](YOUR-FOOD-ORDERING-LINK) | <sub>Modern food ordering application focused on reusable components, responsive design, intuitive user experience, and interactive ordering flows.</sub> | `React` `TypeScript` |
+| 07 | 🔗 [Greatvilla](https://github.com/maleesha4/Greatvilla) | <sub>Modern villa website with a responsive interface, property presentation, image gallery, location details, and contact functionality.</sub> | `TypeScript` `React` `CSS` |
+| 08 | 🔗 [React Native Weather App](YOUR-WEATHER-APP-LINK) | <sub>Cross-platform mobile weather application with search functionality, real-time weather data, forecasts, and external API integration.</sub> | `React Native` `Expo` `JavaScript` |
 
 ## 📊 GitHub Statistics
 
