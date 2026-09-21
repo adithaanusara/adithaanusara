@@ -25,29 +25,23 @@
 <br>
 
 ---
-
 ## 👨‍💻 About Me
 
-> <sub><i>"I believe great software is built at the intersection of clean architecture, thoughtful UX, and continuous learning."</i></sub>
+> <small><i>"I believe great software is built at the intersection of clean architecture, thoughtful UX, and continuous learning."</i></small>
 
-<sub>
-I'm a <b>Computer Science student</b> and <b>Full-Stack Developer</b> passionate about building practical, user-focused software. I enjoy turning ideas into real applications — from responsive web interfaces and cross-platform mobile apps to reliable backend systems and database-driven solutions. I'm also exploring <b>Artificial Intelligence</b> and looking for meaningful ways to integrate AI into modern applications.
-</sub>
+<small>
+I'm a <b>Computer Science student</b> and <b>Full-Stack Developer</b> passionate about building practical, user-focused software. I enjoy turning ideas into real applications — from responsive web interfaces and cross-platform mobile apps to reliable backend systems and database-driven solutions. I'm also exploring <b>Artificial Intelligence</b> and finding practical ways to integrate AI into modern applications.
+</small>
 
 <br>
 
-<sub>
-
-- 🎓 Currently pursuing my <b>Computer Science degree</b>
-- 💻 Building <b>full-stack web applications</b> with React, Next.js, TypeScript & Spring Boot
-- 📱 Developing <b>cross-platform mobile applications</b> with React Native
-- 🤖 Exploring <b>Artificial Intelligence</b> and practical AI-powered applications
-- 🗄️ Working with <b>MySQL, PostgreSQL, Prisma & Supabase</b>
-- 🐳 Using <b>Git, GitHub, Docker & modern development workflows</b>
-- 🚀 Always learning, building, and improving through real-world projects
-
-</sub>
----
+<small>🎓 Currently pursuing my <b>Computer Science degree</b></small><br>
+<small>💻 Building <b>full-stack web applications</b> with React, Next.js, TypeScript & Spring Boot</small><br>
+<small>📱 Developing <b>cross-platform mobile applications</b> with React Native</small><br>
+<small>🤖 Exploring <b>Artificial Intelligence</b> and AI-powered applications</small><br>
+<small>🗄️ Working with <b>MySQL, PostgreSQL, Prisma & Supabase</b></small><br>
+<small>🐳 Using <b>Git, GitHub, Docker</b> and modern development workflows</small><br>
+<small>🚀 Always learning, building, and improving through real-world projects</small>
 
 ## 🛠️ Technologies & Tools
 
