@@ -42,7 +42,6 @@ I'm a <b>Computer Science student</b> and <b>Full-Stack Developer</b> passionate
 <small>🗄️ Working with <b>MySQL, PostgreSQL, Prisma & Supabase</b></small><br>
 <small>🐳 Using <b>Git, GitHub, Docker</b> and modern development workflows</small><br>
 <small>🚀 Always learning, building, and improving through real-world projects</small>
-
 ## 🛠️ Technologies & Tools
 
 <p align="center">
