@@ -52,34 +52,20 @@ I'm a **Computer Science student** and **Full-Stack Developer** passionate about
 </p>
 
 ---
+## 📂 Featured Projects
 
-## 🚀 Featured Projects
+> Here are some of the projects I've built — from full-stack web applications and school management systems to distributed systems, backend services, and mobile applications.
 
-### 🏫 IskolE — School Management System
-
-A role-based school management platform designed to manage academic and administrative workflows.
-
-**Features include:**
-
-- Student management
-- Teacher management
-- Marks and results
-- Attendance tracking
-- Timetables
-- Announcements
-- Reports
-- Academic workflows
-
-🔗 [View Repository](https://github.com/Kalana2/Iskole)
-
----
-
-### 🏡 Greatvilla
-
-A modern villa/property website focused on presenting properties through a clean and responsive interface.
-
-🔗 [View Repository](https://github.com/maleesha4/Greatvilla)
-
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 01 | 🔗 **[SwiftLogistics](https://github.com/adithaanusara/SwiftLogistics)** | **Microservices-based logistics and delivery management system** focused on service separation, asynchronous communication, and scalable backend architecture using message queues. | `Python` `FastAPI` `React` `RabbitMQ` `PostgreSQL` `Docker` |
+| 02 | 🔗 **[FoodExpress Backend](https://github.com/adithaanusara/foodexpress-backend)** | Backend service for an **online food ordering system**, providing server-side APIs for application data, restaurant operations, and ordering workflows. | `Backend` `REST API` |
+| 03 | 🔗 **[IskolE](https://github.com/Kalana2/Iskole)** | Role-based **School Management System** designed to manage student records, marks, attendance, timetables, announcements, reports, and academic workflows. | `PHP` `MySQL` `Docker` |
+| 04 | 🔗 **[LoveLink Studio](https://lovelink-studio.vercel.app)** | Modern full-stack web platform built with **Next.js**, featuring responsive UI, authentication, database integration, cloud image management, and email functionality. | `Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` |
+| 05 | 🔗 **P&D Stone** | Responsive business website with a product gallery, quote-request flow, WhatsApp integration, and mobile-friendly interface. | `Vite` `JavaScript` `CSS` `Supabase` |
+| 06 | 🔗 **Online Food Ordering System** | Modern food ordering application focused on reusable components, responsive design, intuitive user experience, and interactive ordering flows. | `React` `TypeScript` |
+| 07 | 🔗 **[Greatvilla](https://github.com/maleesha4/Greatvilla)** | Modern **villa website** with a responsive interface, property presentation, image gallery, location details, and contact functionality. | `TypeScript` `React` `CSS` |
+| 08 | 🔗 **React Native Weather App** | Cross-platform mobile weather application with search functionality, real-time weather data, forecasts, and external API integration. | `React Native` `Expo` `JavaScript` |
 ---
 
 ## 📊 GitHub Statistics
