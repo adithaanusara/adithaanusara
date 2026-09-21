@@ -65,54 +65,8 @@ I'm a **Computer Science student** and **Full-Stack Developer** passionate about
 | <sub>06</sub> | <sub>🔗 [Online Food Ordering System](YOUR-FOOD-ORDERING-LINK)</sub> | <sub>Modern food ordering application focused on reusable components, responsive design, intuitive user experience, and interactive ordering flows.</sub> | <sub>`React` `TypeScript`</sub> |
 | <sub>07</sub> | <sub>🔗 [Greatvilla](https://github.com/maleesha4/Greatvilla)</sub> | <sub>Modern villa website with a responsive interface, property presentation, image gallery, location details, and contact functionality.</sub> | <sub>`TypeScript` `React` `CSS`</sub> |
 | <sub>08</sub> | <sub>🔗 [React Native Weather App](YOUR-WEATHER-APP-LINK)</sub> | <sub>Cross-platform mobile weather application with search functionality, real-time weather data, forecasts, and external API integration.</sub> | <sub>`React Native` `Expo` `JavaScript`</sub> |
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithaanusara&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adithaanusara&hide_border=true&theme=transparent" height="180"/>
-</p>
 
-<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithaanusara&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
-</p>
 
----
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithaanusara&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/adithaanusara">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-  <i>Building. Learning. Improving. 🚀</i>
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
