@@ -62,10 +62,10 @@ I'm a **Computer Science student** and **Full-Stack Developer** passionate about
 | 02 | 🔗 **[FoodExpress Backend](https://github.com/adithaanusara/foodexpress-backend)** | Backend service for an **online food ordering system**, providing server-side APIs for application data, restaurant operations, and ordering workflows. | `Backend` `REST API` |
 | 03 | 🔗 **[IskolE](https://github.com/Kalana2/Iskole)** | Role-based **School Management System** designed to manage student records, marks, attendance, timetables, announcements, reports, and academic workflows. | `PHP` `MySQL` `Docker` |
 | 04 | 🔗 **[LoveLink Studio](https://lovelink-studio.vercel.app)** | Modern full-stack web platform built with **Next.js**, featuring responsive UI, authentication, database integration, cloud image management, and email functionality. | `Next.js` `React` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` |
-| 05 | 🔗 **P&D Stone** | Responsive business website with a product gallery, quote-request flow, WhatsApp integration, and mobile-friendly interface. | `Vite` `JavaScript` `CSS` `Supabase` |
-| 06 | 🔗 **Online Food Ordering System** | Modern food ordering application focused on reusable components, responsive design, intuitive user experience, and interactive ordering flows. | `React` `TypeScript` |
-| 07 | 🔗 **[Greatvilla](https://github.com/maleesha4/Greatvilla)** | Modern **villa website** with a responsive interface, property presentation, image gallery, location details, and contact functionality. | `TypeScript` `React` `CSS` |
-| 08 | 🔗 **React Native Weather App** | Cross-platform mobile weather application with search functionality, real-time weather data, forecasts, and external API integration. | `React Native` `Expo` `JavaScript` |
+| 05 | 🔗 **[P&D Stone](YOUR-P&D-STONE-LINK)** | Responsive business website with a product gallery, quote-request flow, WhatsApp integration, and mobile-friendly interface. | `Vite` `JavaScript` `CSS` `Supabase` |
+| 06 | 🔗 **[Online Food Ordering System](YOUR-FOOD-ORDERING-LINK)** | Modern food ordering application focused on reusable components, responsive design, intuitive user experience, and interactive ordering flows. | `React` `TypeScript` |
+| 07 | 🔗 **[Greatvilla](https://github.com/maleesha4/Greatvilla)** | Modern villa website with a responsive interface, property presentation, image gallery, location details, and contact functionality. | `TypeScript` `React` `CSS` |
+| 08 | 🔗 **[React Native Weather App](YOUR-WEATHER-APP-LINK)** | Cross-platform mobile weather application with search functionality, real-time weather data, forecasts, and external API integration. | `React Native` `Expo` `JavaScript` |
 ---
 
 ## 📊 GitHub Statistics
