@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>Computer Science Student | Full-Stack Developer | AI/ML Explorer</strong>
+  <strong>Computer Science Student | Full-Stack Developer | AI Enthusiast</strong>
 </p>
 
 <br>
@@ -30,14 +30,15 @@
 
 > *"I believe great software is built at the intersection of clean architecture, thoughtful UX, and continuous learning."*
 
-I'm a **Computer Science student** passionate about building software that solves real-world problems. I enjoy working across the stack — from creating responsive interfaces to designing reliable backend systems and exploring AI/ML technologies.
+I'm a **Computer Science student** and **Full-Stack Developer** passionate about building practical, user-focused software. I enjoy turning ideas into real applications — from responsive web interfaces and cross-platform mobile apps to reliable backend systems and database-driven solutions. I'm also exploring **Artificial Intelligence** and looking for meaningful ways to integrate AI into modern applications.
 
 - 🎓 Currently pursuing my **Computer Science degree**
-- 🔭 Exploring **AI/ML, RAG pipelines & Vector Databases**
-- 🌱 Building **cross-platform applications**
-- ⚡ Enjoy working with **clean APIs and modern development tools**
-- 🎯 Open to **internships, collaborations, and open-source contributions**
-
+- 💻 Building **full-stack web applications** with React, Next.js, TypeScript & Spring Boot
+- 📱 Developing **cross-platform mobile applications** with React Native
+- 🤖 Exploring **Artificial Intelligence** and practical AI-powered applications
+- 🗄️ Working with **MySQL, PostgreSQL, Prisma & Supabase**
+- 🐳 Using **Git, GitHub, Docker & modern development workflows**
+- 🚀 Always learning, building, and improving through real-world projects
 ---
 
 ## 🛠️ Technologies & Tools
