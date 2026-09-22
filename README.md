@@ -39,7 +39,6 @@ I'm a **Computer Science student** and **Full-Stack Developer** passionate about
 - 🐳 Using **Git, GitHub, Docker** and modern development workflows
 - 🚀 Always learning, building, and improving through real-world projects
 
-- 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
