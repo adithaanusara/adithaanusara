@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <strong>Computer Science Student | Full-Stack Developer | AI Enthusiast</strong>
+  <strong> Computer Science Student | Full-Stack Developer | AI Enthusiast</strong>
 </p>
 
 <br>
