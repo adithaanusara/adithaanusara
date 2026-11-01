@@ -10,9 +10,9 @@
 <br>
 
 <!-- TAGLINE -->
-<h2 align="center">
-  Always learning, always shipping 🚀
-</h2>
+<p align="center">
+  <img src="./assets/building-in-motion.svg" width="900" alt="Building ideas into reality — animated developer workspace." />
+</p>
 
 <br>
 

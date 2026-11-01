@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title desc">
+  <title id="title">Building ideas into reality</title>
+  <desc id="desc">A purple developer terminal with animated typing, flowing particles, and a continuously filling build progress bar.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#151027"/>
+      <stop offset="1" stop-color="#090d19"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#67e8f9"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#7c3aed" stop-opacity=".23"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="typing">
+      <rect x="52" y="85" width="0" height="42">
+        <animate attributeName="width" values="0;0;770;770;0" keyTimes="0;.08;.48;.94;1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect x="1" y="1" width="898" height="238" rx="20" fill="url(#bg)" stroke="#35284e"/>
+  <ellipse cx="710" cy="120" rx="230" ry="160" fill="url(#glow)"/>
+  <path d="M1 49H899" stroke="#35284e"/>
+  <g>
+    <circle cx="27" cy="26" r="5" fill="#fb7185"/>
+    <circle cx="46" cy="26" r="5" fill="#fbbf24"/>
+    <circle cx="65" cy="26" r="5" fill="#34d399"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="450" y="30" text-anchor="middle" fill="#9f93b9" font-size="12">aditha / workspace</text>
+    <text x="52" y="80" fill="#a78bfa" font-size="12">~/ideas <tspan fill="#67e8f9">❯</tspan> <tspan fill="#b8b3cd">npm run build-something-great</tspan></text>
+    <text x="52" y="116" fill="#f5f3ff" font-size="29" font-weight="700" letter-spacing="-1" clip-path="url(#typing)">Building ideas into reality.</text>
+    <text x="52" y="149" fill="#a9a3bd" font-size="14">Turning ideas into real things.</text>
+    <text x="52" y="204" fill="#c4b5fd" font-size="12">LEARN <tspan fill="#615675">→</tspan> BUILD <tspan fill="#615675">→</tspan> SHIP <tspan fill="#615675">→</tspan> REPEAT</text>
+    <text x="848" y="204" text-anchor="end" fill="#6ee7b7" font-size="12">● building in motion</text>
+  </g>
+  <rect x="52" y="165" width="12" height="2" rx="1" fill="#67e8f9">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/>
+  </rect>
+  <rect x="52" y="222" width="796" height="3" rx="1.5" fill="#2b2340"/>
+  <rect x="52" y="222" width="0" height="3" rx="1.5" fill="url(#accent)">
+    <animate attributeName="width" values="0;190;350;560;796;796;0" keyTimes="0;.2;.4;.6;.85;.96;1" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <g fill="#a78bfa">
+    <circle cx="790" cy="77" r="2" opacity=".4">
+      <animate attributeName="cy" values="77;65;77" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="828" cy="134" r="3" opacity=".5">
+      <animate attributeName="cy" values="134;118;134" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="748" cy="158" r="2" opacity=".35">
+      <animate attributeName="cy" values="158;146;158" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
