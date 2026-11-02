@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Aditha Anusara</title>
+  <desc id="desc">Aditha Anusara types from left to right over a color-changing blue, purple and teal gradient with layered waves and a glowing green underscore cursor.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#10172c">
+        <animate attributeName="stop-color" values="#10172c;#25133f;#0c2935;#10172c" dur="18s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset=".48" stop-color="#1d409e">
+        <animate attributeName="stop-color" values="#1d409e;#7838ab;#116e83;#1d409e" dur="18s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#2888a7">
+        <animate attributeName="stop-color" values="#2888a7;#477bd1;#279c91;#2888a7" dur="18s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <clipPath id="wave-edge">
+      <path d="M0 0H1200V230C965 188 820 199 610 218S231 214 0 251Z"/>
+    </clipPath>
+    <linearGradient id="white" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#fafafa"/>
+      <stop offset="1" stop-color="#d1d5d3"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-250%" width="300%" height="600%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+  </defs>
+  <g clip-path="url(#wave-edge)">
+    <rect width="1200" height="280" fill="url(#background)"/>
+    <path d="M0 224C225 239 360 235 600 218S990 192 1200 231V280H0Z" fill="#0d1733" opacity=".32"/>
+    <path d="M0 253C240 221 402 235 610 257S1004 250 1200 205V280H0Z" fill="#0d1733" opacity=".4"/>
+  </g>
+  <g fill="url(#white)" font-family="monospace" font-size="92" font-weight="800" aria-label="Aditha Anusara">
+    <text x="213.6" y="145" opacity="1">A<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.080;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="268.8" y="145" opacity="1">d<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.112;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="324.0" y="145" opacity="1">i<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.144;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="379.2" y="145" opacity="1">t<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.176;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="434.4" y="145" opacity="1">h<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.208;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="489.6" y="145" opacity="1">a<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.240;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="544.8" y="145" opacity="1">&#32;<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.272;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="600.0" y="145" opacity="1">A<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.304;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="655.2" y="145" opacity="1">n<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.336;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="710.4" y="145" opacity="1">u<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.368;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="765.6" y="145" opacity="1">s<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.400;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="820.8" y="145" opacity="1">a<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.432;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="876.0" y="145" opacity="1">r<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.464;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+    <text x="931.2" y="145" opacity="1">a<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.496;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
+  </g>
+  <g aria-hidden="true">
+    <animateTransform attributeName="transform" type="translate" values="213.6 0;268.8 0;324.0 0;379.2 0;434.4 0;489.6 0;544.8 0;600.0 0;655.2 0;710.4 0;765.6 0;820.8 0;876.0 0;931.2 0;986.4 0;213.6 0;213.6 0" keyTimes="0.000;0.080;0.112;0.144;0.176;0.208;0.240;0.272;0.304;0.336;0.368;0.400;0.432;0.464;0.496;0.940;1.000" dur="8s" calcMode="discrete" repeatCount="indefinite"/>
+    <g fill="#40df80">
+      <animate attributeName="opacity" values="1;0" dur=".8s" calcMode="discrete" repeatCount="indefinite"/>
+      <rect y="153" width="49" height="12" filter="url(#glow)" opacity=".85"/>
+      <rect y="153" width="49" height="12"/>
+    </g>
+  </g>
+  <text x="600" y="207" text-anchor="middle" fill="#ffffff" font-family="monospace" font-size="22">Computer Science Student | Full-Stack Developer</text>
+</svg>
