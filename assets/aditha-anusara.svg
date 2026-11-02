@@ -10,10 +10,6 @@
       <stop stop-color="#fafafa"/>
       <stop offset="1" stop-color="#d1d5d3"/>
     </linearGradient>
-    <linearGradient id="mint" x1="0" y1="0" x2="0" y2="1">
-      <stop stop-color="#d4fbe2"/>
-      <stop offset="1" stop-color="#2dd4bf"/>
-    </linearGradient>
     <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
       <path d="M56 0H0V56" fill="none" stroke="#83b99a" stroke-opacity=".07"/>
     </pattern>
@@ -24,7 +20,6 @@
   <rect width="1200" height="340" fill="#060a08"/>
   <rect width="1200" height="340" fill="url(#ambient)"/>
   <rect width="1200" height="340" fill="url(#grid)"/>
-  <text x="600" y="55" text-anchor="middle" fill="#74847b" font-family="monospace" font-size="12" letter-spacing="4"><tspan fill="#40df80">$</tspan> ./ADITHA --PORTFOLIO</text>
   <g fill="url(#white)" font-family="monospace" font-size="92" font-weight="800" aria-label="Aditha Anusara">
     <text x="213.6" y="161" opacity="1">A<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.080;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
     <text x="268.8" y="161" opacity="1">d<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.112;.94" dur="8s" calcMode="discrete" repeatCount="indefinite"/></text>
@@ -49,6 +44,5 @@
       <rect y="169" width="49" height="12"/>
     </g>
   </g>
-  <text x="600" y="231" text-anchor="middle" fill="url(#mint)" font-family="monospace" font-size="36" font-weight="700">Code. Build. Ship.</text>
   <text x="600" y="283" text-anchor="middle" fill="#82958b" font-family="monospace" font-size="14">Computer Science Student | Full-Stack Developer</text>
 </svg>
