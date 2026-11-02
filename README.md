@@ -5,9 +5,9 @@
 
 <br>
 
-<!-- TAGLINE -->
+<!-- TYPING INTRODUCTION -->
 <p align="center">
-  <img src="./assets/building-in-motion.svg" width="900" alt="Building ideas into reality — animated developer workspace." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=21&amp;duration=3200&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Computer+Science+Student+%7C+Full-Stack+Developer%3BBuilding+full-stack+web+and+mobile+applications%3BTurning+ideas+into+practical+software" width="820" alt="Computer Science Student and Full-Stack Developer. Building full-stack web and mobile applications. Turning ideas into practical software." />
 </p>
 
 <br>
