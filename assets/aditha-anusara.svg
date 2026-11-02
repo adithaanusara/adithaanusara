@@ -1,50 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
   <title id="title">Aditha Anusara</title>
-  <desc id="desc">An animated violet and cyan name reveal with a sweeping highlight and orbiting sparks.</desc>
+  <desc id="desc">Aditha Anusara types from left to right over a purple, blue and teal gradient with layered waves.</desc>
   <defs>
-    <linearGradient id="background" x2="1" y2="1">
-      <stop stop-color="#171029"/>
-      <stop offset="1" stop-color="#090e1c"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ac0cab"/>
+      <stop offset=".45" stop-color="#6442a4"/>
+      <stop offset=".72" stop-color="#316c9e"/>
+      <stop offset="1" stop-color="#15969a"/>
     </linearGradient>
-    <linearGradient id="letters" x2="1" y2=".3">
-      <stop stop-color="#c4b5fd"/>
-      <stop offset=".5" stop-color="#f5f3ff"/>
-      <stop offset="1" stop-color="#67e8f9"/>
-    </linearGradient>
-    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-300" x2="0">
-      <stop stop-color="#fff" stop-opacity="0"/>
-      <stop offset=".5" stop-color="#fff" stop-opacity=".9"/>
-      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
-      <animate attributeName="x1" values="-300;900;900" keyTimes="0;.65;1" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0;1200;1200" keyTimes="0;.65;1" dur="6s" repeatCount="indefinite"/>
-    </linearGradient>
-    <clipPath id="reveal">
-      <rect width="900" height="230">
-        <animate attributeName="width" values="0;900;900" keyTimes="0;.25;1" dur="8s" repeatCount="indefinite"/>
-      </rect>
+    <clipPath id="banner">
+      <path d="M0 0H1200V217C990 172 817 180 605 200S218 188 0 226Z"/>
     </clipPath>
   </defs>
-  <rect x="1" y="1" width="898" height="228" rx="22" fill="url(#background)" stroke="#35284e"/>
-  <g fill="none" stroke="#a78bfa">
-    <ellipse cx="450" cy="110" rx="355" ry="78" opacity=".12"/>
-    <ellipse cx="450" cy="110" rx="385" ry="94" opacity=".06"/>
-    <path d="M55 73V51H77M823 51H845V73M55 157V179H77M823 179H845V157" stroke-width="2" opacity=".6"/>
+  <g clip-path="url(#banner)">
+    <rect width="1200" height="250" fill="url(#background)"/>
+    <path d="M0 195C225 225 390 214 600 196S1000 180 1200 218V250H0Z" fill="#0d1117" opacity=".29"/>
+    <path d="M0 226C240 197 400 207 600 225S975 226 1200 182V250H0Z" fill="#0d1117" opacity=".42"/>
   </g>
-  <text x="450" y="69" text-anchor="middle" fill="#a78bfa" font-family="monospace" font-size="11" letter-spacing="5">HELLO, WORLD. I'M</text>
-  <g clip-path="url(#reveal)" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="65" font-weight="800" letter-spacing="-2">
-    <text x="450" y="139" fill="url(#letters)">Aditha Anusara</text>
-    <text x="450" y="139" fill="url(#shine)">Aditha Anusara</text>
-  </g>
-  <path d="M335 163H565" stroke="url(#letters)" stroke-width="2" stroke-linecap="round">
-    <animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/>
-  </path>
-  <g fill="#67e8f9">
-    <circle r="3">
-      <animateMotion path="M95 110A355 78 0 1 1 805 110A355 78 0 1 1 95 110" dur="12s" repeatCount="indefinite"/>
-    </circle>
-    <circle r="2" opacity=".6">
-      <animateMotion path="M805 110A355 78 0 1 1 95 110A355 78 0 1 1 805 110" dur="12s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  <text x="450" y="199" text-anchor="middle" fill="#a9a3bd" font-family="monospace" font-size="11" letter-spacing="3">IDEAS INTO CODE. CODE INTO IMPACT.</text>
+  <text x="600" y="123" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" aria-label="Aditha Anusara"><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.100;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>A</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.135;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>d</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.170;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>i</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.205;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>t</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.240;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>h</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.275;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>a</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.310;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/> </tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.345;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>A</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.380;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>n</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.415;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>u</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.450;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>s</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.485;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>a</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.520;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>r</tspan><tspan><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.555;0.94" dur="7s" calcMode="discrete" repeatCount="indefinite"/>a</tspan></text>
+  <text x="600" y="179" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600">Computer Science Student | Full-Stack Developer | AI Enthusiast</text>
 </svg>

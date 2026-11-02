@@ -1,10 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./assets/aditha-anusara.svg" width="900" alt="Aditha Anusara — animated name banner" />
-</p>
-
-<p align="center">
-  <strong>Computer Science Student | Full-Stack Developer | AI Enthusiast</strong>
+  <img src="./assets/aditha-anusara.svg" width="900" alt="Aditha Anusara — typing animation with a gradient wave header" />
 </p>
 
 <br>
