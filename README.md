@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aditha%20Anusara&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="./assets/aditha-anusara.svg" width="900" alt="Aditha Anusara — animated name banner" />
 </p>
 
 <p align="center">
