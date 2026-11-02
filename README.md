@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./assets/aditha-anusara.svg" width="900" alt="Aditha Anusara — typing animation with a dark grid and glowing green cursor" />
+  <img src="./assets/aditha-name-typing.svg" width="900" alt="Aditha Anusara — typing animation with a dark grid and glowing green cursor" />
 </p>
 
 <br>
