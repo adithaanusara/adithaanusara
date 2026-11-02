@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Aditha Anusara</title>
-  <desc id="desc">Aditha Anusara types from left to right over a color-changing blue, purple and teal gradient with layered waves and a glowing green underscore cursor.</desc>
+  <desc id="desc">Aditha Anusara types from left to right over a color-changing blue, purple and teal gradient with layered waves and a glowing white underscore cursor.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
       <stop stop-color="#10172c">
@@ -47,7 +47,7 @@
   </g>
   <g aria-hidden="true">
     <animateTransform attributeName="transform" type="translate" values="213.6 0;268.8 0;324.0 0;379.2 0;434.4 0;489.6 0;544.8 0;600.0 0;655.2 0;710.4 0;765.6 0;820.8 0;876.0 0;931.2 0;986.4 0;213.6 0;213.6 0" keyTimes="0.000;0.080;0.112;0.144;0.176;0.208;0.240;0.272;0.304;0.336;0.368;0.400;0.432;0.464;0.496;0.940;1.000" dur="8s" calcMode="discrete" repeatCount="indefinite"/>
-    <g fill="#40df80">
+    <g fill="#ffffff">
       <animate attributeName="opacity" values="1;0" dur=".8s" calcMode="discrete" repeatCount="indefinite"/>
       <rect y="153" width="49" height="12" filter="url(#glow)" opacity=".85"/>
       <rect y="153" width="49" height="12"/>

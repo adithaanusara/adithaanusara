@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./assets/aditha-gradient-typing.svg" width="900" alt="Aditha Anusara — typing animation with color-changing gradient waves and a glowing green cursor" />
+  <img src="./assets/aditha-gradient-typing.svg?v=white-cursor" width="900" alt="Aditha Anusara — typing animation with color-changing gradient waves and a glowing white cursor" />
 </p>
 
 <br>
